@@ -1,12 +1,14 @@
 ### Hi there 👋
 
+I am a Research Associate at Baker Lab at the University of Texas at Austin Marine Science Institute UTMSI using computational biology to understand the microbial ecology of the deep sea and other extreme environments. I've always been fascinated by the remarkable metabolic versatility of the microbial world. Microorganisms have been evolving for 4 billion years, developing the most extant complex pathways and outstanding metabolic diversity, which has allowed for the continued persistence of every form of life on Earth. My research efforts focuses on understanding the first metabolism that appeared on Earth, the extreme limits of life, and the reactions carried out by microorganisms that make life possible on Earth. Specifically I study ancient microbial lineages of archaea and that live in extreme environments to better understand the biogeochemistry and evolution of life on the planet and to provide clues for life beyond Earth.
+
 <!--
 **valdeanda/valdeanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
+🔭 I’m currently working on 
+-🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
